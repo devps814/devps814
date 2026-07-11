@@ -2,7 +2,7 @@
 
 # Hi, I'm Dev Pratap Singh 👋
 
-### Backend-focused Full-Stack Developer | Java & Spring Boot | B.Tech CSE @ GLA University
+### Java Full-Stack Developer | Spring Boot | B.Tech CSE @ GLA University
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-pratap-s-9619b0251/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/devprataps814/)
